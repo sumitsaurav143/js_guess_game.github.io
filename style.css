@@ -118,7 +118,19 @@ h2{
     color:white;
     font-size: 80px;
 }
-
+#timer{
+    color:rgb(255, 0, 0);
+    font-size: 50px;
+    margin-left: 39%;
+}
+.tm{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    display: none;
+}
 @media (max-width: 600px) 
 {
     .head_bar h1{
